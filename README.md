@@ -1,17 +1,5 @@
 # Hi there, I'm Aaditya Shah 👋
 
-<div align="center">
-  <a href="https://github.com/aadityarshah">
-    <img src="https://github-readme-stats.vercel.app/api?username=aadityarshah&show_icons=true&theme=dracula&line_height=27&hide_border=true" alt="Aaditya's GitHub Stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/aadityarshah">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityarshah&theme=dracula&layout=compact&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
-
 ## 👨‍💻 About Me
 
 I am a Computer Science and Engineering student at the Indian Institute of Technology, Gandhinagar. I am passionate about technology and I am always looking for new things to learn.
