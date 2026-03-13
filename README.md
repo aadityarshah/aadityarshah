@@ -30,29 +30,10 @@ I am a Computer Science and Engineering student at the Indian Institute of Techn
 ---
 
 ### 💻 Programming Languages
-<p align="left">
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>&nbsp;
-</p>
+<a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" height="48" style="margin-right: 10px;"/></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="48" style="margin-right: 10px;"/></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" style="margin-right: 10px;"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" alt="C" height="48"/></a>
 
 <details>
 <summary><b>Frameworks & Libraries</b></summary>
@@ -65,40 +46,30 @@ I am a Computer Science and Engineering student at the Indian Institute of Techn
 </details>
 
 ### ⚔ Weapons of Choice
-<p align="left">
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android-studio" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.kernel.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>&nbsp;
-</p>
+<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="48" style="margin-right: 10px;"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="48" style="margin-right: 10px;"/></a>
+<a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48"/></a>
 
 ---
 
 ### 🤝 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/aaditya-shah-57823a232/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="mailto:aaditya.shah@iitgn.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/aaditya-shah-57823a232/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" style="margin-right: 10px;"/></a>
+<a href="mailto:aaditya.shah@iitgn.ac.in"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="48"/></a>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-mu-orpin-62.vercel.app/api?username=aadityarshah&theme=dark&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityarshah&theme=dark&cache_seconds=1" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats-mu-orpin-62.vercel.app/api/top-langs/?username=aadityarshah&theme=dark&layout=compact&include_all_commits=true&count_private=true&cache_seconds=1" alt="Top Languages" />
+<p align="left">
+  <a href="https://github.com/aadityarshah">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityarshah&theme=dark&cache_seconds=1" alt="GitHub Streak" height="195" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/aadityarshah">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityarshah&theme=react-dark&bg_color=0d1117&hide_border=false" alt="GitHub Activity Graph" width="100%" />
+  </a>
 </p>
 
 ---
