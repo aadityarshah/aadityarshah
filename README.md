@@ -93,12 +93,19 @@ I am a Computer Science and Engineering student at the Indian Institute of Techn
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-mu-orpin-62.vercel.app/api?username=aadityarshah&theme=dark&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityarshah&theme=dark&cache_seconds=1" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats-mu-orpin-62.vercel.app/api/top-langs/?username=aadityarshah&theme=dark&layout=compact&include_all_commits=true&count_private=true&cache_seconds=1" alt="Top Languages" />
+<p align="left">
+  <a href="https://github.com/aadityarshah">
+    <img src="https://github-readme-stats-mu-orpin-62.vercel.app/api?username=aadityarshah&theme=dark&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1" alt="GitHub Stats" height="195" />
+  </a>
+  <a href="https://github.com/aadityarshah">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityarshah&theme=dark&cache_seconds=1" alt="GitHub Streak" height="195" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/aadityarshah">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityarshah&theme=react-dark&bg_color=0d1117&hide_border=false" alt="GitHub Activity Graph" width="100%" />
+  </a>
 </p>
 
 ---
