@@ -2,13 +2,24 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science and Engineering student at the Indian Institute of Technology, Gandhinagar (IITGN). I am passionate about software engineering, system design, and the mathematical foundations that power modern computing. My journey began with mobile development, and I enjoy exploring the intersection of software with hardware and embedded systems.
+I am a second-year B.Tech student in Computer Science and Engineering at the Indian Institute of Technology, Gandhinagar (IITGN), graduating in 2029. I am drawn to difficult questions at the meeting point of mathematics, computation, and engineered systems. I use software as a medium for making ideas concrete enough to test, share, and challenge.
 
-- 🎓 **First-year CSE Student** at IIT Gandhinagar.
-- 📐 **Academic Interests:** Focused on formalization, logic, and their applications in systems programming and software-hardware integration.
-- 🌱 **Continuous Learning:** Currently deepening my knowledge in software architecture, systems programming, and robotics.
-- 👯 **Collaboration:** Open to collaborating on projects involving mobile app development, systems design, or embedded systems.
+- 🎓 **Sophomore (second-year) B.Tech CSE student** at IIT Gandhinagar, graduating in 2029.
+- 🔍 **Current Focus:** Mathematical foundations, Enigma cryptanalysis, quantum computing, algorithms and data structures, and interactive systems.
+- 🧠 **How I Learn:** I move from questions to reading, modeling, building, testing, and explaining—often returning to the question with a better method.
+- 🎨 **Design & Technology:** Design and Tech Coordinator at Blithchron, where I have helped deploy the Blithchron 2027 website.
+- 🛠️ **Background:** Started at IIT Gandhinagar in Mechanical Engineering before moving to CSE after my first semester.
+- 👯 **Collaboration:** Open to working on thoughtful projects in mathematics, computation, research, or complex systems.
 - 📫 **How to reach me:** [aaditya.shah@iitgn.ac.in](mailto:aaditya.shah@iitgn.ac.in)
+
+---
+
+## 🔬 Current Investigations
+
+- **Recovering hidden structure from the Enigma:** Studying how permutation equations from intercepted indicators can recover rotor wirings, twists, and the limits of those methods.
+- **Quantum foundations:** Learning the mathematics behind quantum computation before treating its vocabulary as understanding.
+- **Algorithms, properly:** Building stronger foundations in algorithms and data structures through deliberate study.
+- **Interactive systems:** Exploring how design and engineering change when software is built for a team, a campus, or a real audience.
 
 ---
 
@@ -21,7 +32,7 @@ I am a Computer Science and Engineering student at the Indian Institute of Techn
   </a>
 </p>
 
-**MusicLib** is a native Android application built with Kotlin and Jetpack Compose, providing high-quality, royalty-free background music for short-form content creators.
+**MusicLib** is a released, now-paused native Android application built with Kotlin and Jetpack Compose. It explored how a small mobile product could carry an idea from prototype through public release and maintenance for short-form content creators.
 
 - 🚀 **Official Website:** [musiclib-dev.github.io](https://musiclib-dev.github.io/)
 - 🤖 **Play Store:** [Download on Google Play](https://play.google.com/store/apps/details?id=com.musiclib)
