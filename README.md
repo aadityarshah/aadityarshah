@@ -1,90 +1,76 @@
-# Hi there, I'm Aaditya Shah 👋
+# Aaditya Shah
 
-## 👨‍💻 About Me
+**B.Tech CSE · IIT Gandhinagar · 2025–2029**
 
-I am a second-year B.Tech student in Computer Science and Engineering at the Indian Institute of Technology, Gandhinagar (IITGN), graduating in 2029. I am drawn to difficult questions at the meeting point of mathematics, computation, and engineered systems. I use software as a medium for making ideas concrete enough to test, share, and challenge.
-
-- 🎓 **Sophomore (second-year) B.Tech CSE student** at IIT Gandhinagar, graduating in 2029.
-- 🔍 **Current Focus:** Mathematical foundations, Enigma cryptanalysis, quantum computing, algorithms and data structures, and interactive systems.
-- 🧠 **How I Learn:** I move from questions to reading, modeling, building, testing, and explaining—often returning to the question with a better method.
-- 🎨 **Design & Technology:** Design and Tech Coordinator at Blithchron, where I have helped deploy the Blithchron 2027 website.
-- 🛠️ **Background:** Started at IIT Gandhinagar in Mechanical Engineering before moving to CSE after my first semester.
-- 👯 **Collaboration:** Open to working on thoughtful projects in mathematics, computation, research, or complex systems.
-- 📫 **How to reach me:** [aaditya.shah@iitgn.ac.in](mailto:aaditya.shah@iitgn.ac.in)
+I like staying with difficult questions: making their structure precise, building a model or a piece of software around them, then testing what survives. My interests move between mathematics, computation, quantum computing, algorithms, and systems engineering; the common thread is understanding how a system works before deciding what to build with it.
 
 ---
 
-## 🔬 Current Investigations
+## 🔬 What I’m Exploring
 
-- **Recovering hidden structure from the Enigma:** Studying how permutation equations from intercepted indicators can recover rotor wirings, twists, and the limits of those methods.
-- **Quantum foundations:** Learning the mathematics behind quantum computation before treating its vocabulary as understanding.
-- **Algorithms, properly:** Building stronger foundations in algorithms and data structures through deliberate study.
-- **Interactive systems:** Exploring how design and engineering change when software is built for a team, a campus, or a real audience.
+| Interest | What draws me to it |
+|:--|:--|
+| 🔐 **Enigma & mathematical cryptanalysis** | Recovering structure from indicator evidence |
+| ⚛️ **Quantum computing & quantum software** | Learning the mathematics and working with the software ecosystem |
+| 🧩 **Algorithms & data structures** | Connecting mathematical ideas to concrete procedures |
+| ⚙️ **Systems programming / C** | Memory, constraints, and behavior close to the machine |
+| ∑ **Mathematical foundations of computation** | The structures underneath algorithms and engineered systems |
 
----
+## 🛠️ Selected Work
 
-<details>
-<summary><b>📱 Featured Project: MusicLib</b></summary>
-<br/>
-<p align="left">
-  <a href="https://musiclib-dev.github.io/" target="_blank">
-    <img src="images/music_lib.png" alt="MusicLib Logo" width="80" height="80" style="border-radius: 50%;"/>
-  </a>
-</p>
+### 🔐 Enigma Cryptanalysis — SRIP 2026
 
-**MusicLib** is a released, now-paused native Android application built with Kotlin and Jetpack Compose. It explored how a small mobile product could carry an idea from prototype through public release and maintenance for short-form content creators.
+A mathematical investigation of Enigma indicator cryptanalysis, Rejewski’s methods, and rotor-wiring recovery, conducted during SRIP 2026 at IIT Gandhinagar. The repository contains the research report, a proof of Rejewski’s pairing theorem, and a Jupyter notebook with Enigma and cryptanalysis simulations.
 
-- 🚀 **Official Website:** [musiclib-dev.github.io](https://musiclib-dev.github.io/)
-- 🤖 **Play Store:** [Download on Google Play](https://play.google.com/store/apps/details?id=com.musiclib)
-</details>
+[Explore the repository →](https://github.com/aadityarshah/srip-2026)
 
----
+### ⚙️ Embedded Memory Manager — HackRush 2026
 
-### 💻 Programming Languages
-<a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" height="48" style="margin-right: 10px;"/></a>
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="48" style="margin-right: 10px;"/></a>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" style="margin-right: 10px;"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" alt="C" height="48"/></a>
+A C99 memory-management project for simulated 64 KB embedded RAM. Its progressive levels explore fixed and variable-size allocation, fragmentation, task quotas, handles, compaction, and out-of-memory recovery. I like this project for the way it makes systems constraints explicit: memory layout and failure behavior are part of the problem, not implementation details to hide.
 
-<details>
-<summary><b>Frameworks & Libraries</b></summary>
-<ul>
-  <li><a href="https://developer.android.com/jetpack/compose">Jetpack Compose</a></li>
-  <li><a href="https://react.dev/">React.js</a></li>
-  <li><a href="https://nodejs.org/">Node.js</a></li>
-  <li><a href="https://www.android.com/">Android SDK</a></li>
-</ul>
-</details>
+[Explore the repository →](https://github.com/aadityarshah/hackrush26-embedded-memory-manager)
 
-### ⚔ Weapons of Choice
-<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="48" style="margin-right: 10px;"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="48" style="margin-right: 10px;"/></a>
-<a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48"/></a>
+### ⚛️ Open Source — Cirq
 
----
+I contributed upstream to Cirq with [PR #8382](https://github.com/quantumlib/Cirq/pull/8382), which was merged. It adds support for NumPy random generators and seed-like inputs through `parse_random_generator`, with tests for supported and invalid inputs. The work followed [issue #8374](https://github.com/quantumlib/Cirq/issues/8374). My [Cirq fork](https://github.com/aadityarshah/Cirq) is where that contribution was developed; the merged PR is the upstream record.
 
-### 🤝 Connect with me
-<a href="https://www.linkedin.com/in/aaditya-shah-57823a232/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" style="margin-right: 10px;"/></a>
-<a href="mailto:aaditya.shah@iitgn.ac.in"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="48"/></a>
+### 🎪 Blithchron 2027 Website
 
----
+As Design and Tech Coordinator for Blithchron 2027, I lead the design and technical development of the festival website, including its interactive experience. The site is live and continues to be developed for IIT Gandhinagar’s annual cultural fest.
 
-## 📊 GitHub Stats
+[Visit blithchron.iitgn.ac.in →](https://blithchron.iitgn.ac.in/)
+
+## 🌐 Other Work
+
+### 🎵 MusicLib
+
+<a href="https://musiclib-dev.github.io/"><img src="images/music_lib.png" alt="MusicLib logo" width="80" height="80" /></a>
+
+An independently developed Android music library and player, built with Kotlin and Jetpack Compose. I took it from idea and implementation through a production release for short-form creators looking for royalty-free background music. It launched on Google Play in March 2026 and is now paused.
+
+- **Project site:** [musiclib-dev.github.io](https://musiclib-dev.github.io/)
+- **Google Play:** [Download MusicLib](https://play.google.com/store/apps/details?id=com.musiclib)
+
+### 🗂️ AnkiDroid
+
+A small upstream cleanup merged in [PR #20412](https://github.com/ankidroid/Anki-Android/pull/20412): fixed an issue in a test and resolved two Android Studio warnings.
+
+## 🧠 How I Work
+
+**Question → model → implementation → experiment → evidence**
+
+I prefer starting from first principles, whether that means writing down a permutation model or understanding how an allocator handles a constrained heap. Code is a way to make an idea concrete enough to probe: simulate it, find edge cases, and see which parts of the explanation hold up. These projects look different, but each asks what can be inferred, built, or verified from a precise model.
+
+## 🌱 Currently Learning
+
+Mathematical foundations of quantum computing, quantum software, and stronger grounding in algorithms and systems programming. I’m keeping this section focused on the questions behind the work rather than listing every tool I’ve tried.
+
+## 🤝 Connect with me
+
+<p>Explore my work: <a href="https://aadityarshah.github.io/">aadityarshah.github.io</a> 🚀</p>
 
 <p align="left">
-  <a href="https://github.com/aadityarshah">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityarshah&theme=dark&cache_seconds=1" alt="GitHub Streak" height="195" />
-  </a>
+  <a href="https://www.linkedin.com/in/aaditya-shah-57823a232/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" /></a>&nbsp;
+  <a href="mailto:aaditya.shah@iitgn.ac.in"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="48" /></a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/aadityarshah">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityarshah&theme=react-dark&bg_color=0d1117&hide_border=false" alt="GitHub Activity Graph" width="100%" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>Explore my work:</b> <a href="https://aadityarshah.github.io" target="_blank">aadityarshah.github.io</a> 🚀
-</p>
