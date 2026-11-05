@@ -18,6 +18,12 @@ I like staying with difficult questions: making their structure precise, buildin
 
 ## 🛠️ Selected Work
 
+### ⚛️ Quantum Simulator — From First Principles in C
+
+I’m building a state-vector quantum circuit simulator from scratch in C17 to understand how the mathematics of quantum computing translates into software. The current implementation covers complex-number arithmetic, qubit and Bloch sphere representations, quantum-state representation, and multi-qubit operators. Quantum gates, measurement, and circuit execution are the next steps. Longer term, I plan to explore basic quantum algorithms and study the simulator’s performance and memory scaling against frameworks such as Qiskit and Cirq.
+
+[Explore the repository →](https://github.com/aadityarshah/quantum-simulator)
+
 ### 🔐 Enigma Cryptanalysis — SRIP 2026
 
 A mathematical investigation of Enigma indicator cryptanalysis, Rejewski’s methods, and rotor-wiring recovery, conducted during SRIP 2026 at IIT Gandhinagar. The repository contains the research report, a proof of Rejewski’s pairing theorem, and a Jupyter notebook with Enigma and cryptanalysis simulations.
