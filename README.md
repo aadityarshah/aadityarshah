@@ -10,8 +10,8 @@ I like staying with difficult questions: making their structure precise, buildin
 
 | Interest | What draws me to it |
 |:--|:--|
-| 🔐 **Enigma & mathematical cryptanalysis** | Recovering structure from indicator evidence |
 | ⚛️ **Quantum computing & quantum software** | Learning the mathematics and working with the software ecosystem |
+| 🔐 **Enigma & mathematical cryptanalysis** | Recovering structure from indicator evidence |
 | 🧩 **Algorithms & data structures** | Connecting mathematical ideas to concrete procedures |
 | ⚙️ **Systems programming / C** | Memory, constraints, and behavior close to the machine |
 | ∑ **Mathematical foundations of computation** | The structures underneath algorithms and engineered systems |
@@ -36,9 +36,12 @@ A C99 memory-management project for simulated 64 KB embedded RAM. Its progressiv
 
 [Explore the repository →](https://github.com/aadityarshah/hackrush26-embedded-memory-manager)
 
-### ⚛️ Open Source — Cirq
+### ⚛️ Open Source — Qiskit & Cirq
 
-I contributed upstream to Cirq with [PR #8382](https://github.com/quantumlib/Cirq/pull/8382), which was merged. It adds support for NumPy random generators and seed-like inputs through `parse_random_generator`, with tests for supported and invalid inputs. The work followed [issue #8374](https://github.com/quantumlib/Cirq/issues/8374). My [Cirq fork](https://github.com/aadityarshah/Cirq) is where that contribution was developed; the merged PR is the upstream record.
+I contribute upstream to quantum software, with merged work in Qiskit and Cirq:
+
+- **Qiskit — transpiler control flow:** Fixed `WrapAngles` failing to respect angle bounds inside control flow by adding `trivial_recurse`, with a regression test and release note. Merged as [PR #17349](https://github.com/Qiskit/qiskit/pull/17349), addressing [issue #17316](https://github.com/Qiskit/qiskit/issues/17316).
+- **Cirq — random number generator API:** Added `PRNG_OR_SEED_LIKE` and `parse_random_generator` to support NumPy random generators and seed-like inputs, with tests for supported and invalid inputs. Merged as [PR #8382](https://github.com/quantumlib/Cirq/pull/8382), implementing the first part of [issue #8374](https://github.com/quantumlib/Cirq/issues/8374).
 
 ### 🎪 Blithchron 2027 Website
 
