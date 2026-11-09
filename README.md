@@ -41,6 +41,7 @@ A C99 memory-management project for simulated 64 KB embedded RAM. Its progressiv
 I contribute upstream to quantum software, with merged work in Qiskit and Cirq:
 
 - **Qiskit — transpiler control flow:** Fixed `WrapAngles` failing to respect angle bounds inside control flow by adding `trivial_recurse`, with a regression test and release note. Merged as [PR #17349](https://github.com/Qiskit/qiskit/pull/17349), addressing [issue #17316](https://github.com/Qiskit/qiskit/issues/17316).
+- **Qiskit — two-qubit transpiler tests.** Added tests that verify `ConsolidateBlocks` preserves the circuit’s unitary with CX, CZ, ECR, and iSWAP as explicit KAK basis gates. The tests also check that the decomposer estimates different gate counts for CX and iSWAP on the same circuit. Merged as [PR #17259](https://github.com/Qiskit/qiskit/pull/17259), addressing [issue #17167](https://github.com/Qiskit/qiskit/issues/17167).
 - **Cirq — random number generator API:** Added `PRNG_OR_SEED_LIKE` and `parse_random_generator` to support NumPy random generators and seed-like inputs, with tests for supported and invalid inputs. Merged as [PR #8382](https://github.com/quantumlib/Cirq/pull/8382), implementing the first part of [issue #8374](https://github.com/quantumlib/Cirq/issues/8374).
 
 ### 🎪 Blithchron 2027 Website
